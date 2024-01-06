@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(./GIF.gif);
+  background-image: url(./media/GIF.gif);
   background-repeat: no-repeat;
   background-size: cover;
 }
